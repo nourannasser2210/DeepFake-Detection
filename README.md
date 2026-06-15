@@ -47,3 +47,15 @@ Nouran Nasser
 
 Computer Science Student
 Egyptian Chinese University
+
+## Results
+
+### Accuracy Curve & Loss Curve
+
+<img width="677" height="282" alt="image" src="https://github.com/user-attachments/assets/8e680a5f-2bd6-433d-93c2-a2df64dd2190" />
+
+
+### Sample Prediction
+
+<img width="623" height="720" alt="image" src="https://github.com/user-attachments/assets/e3b12eab-28d2-4476-ac2b-ffb982efaaae" />
+
