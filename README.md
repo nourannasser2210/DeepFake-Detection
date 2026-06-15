@@ -41,12 +41,6 @@ https://www.kaggle.com/datasets/pranabr0y/celebdf-v2image-dataset
 - Transfer Learning Models
 - Real-time Detection
 
-## Author
-
-Nouran Nasser
-
-Computer Science Student
-Egyptian Chinese University
 
 ## Results
 
@@ -58,4 +52,12 @@ Egyptian Chinese University
 ### Sample Prediction
 
 <img width="623" height="720" alt="image" src="https://github.com/user-attachments/assets/e3b12eab-28d2-4476-ac2b-ffb982efaaae" />
+
+## Author
+
+Nouran Nasser
+
+Computer Science Student
+Egyptian Chinese University
+
 
