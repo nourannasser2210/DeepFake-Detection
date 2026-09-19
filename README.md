@@ -2,7 +2,10 @@
 
 ## Overview
 
-This project focuses on detecting DeepFake images using Deep Learning techniques. A Convolutional Neural Network (CNN) model was trained on the CelebDF V2 dataset to classify manipulated facial images as Real or Fake.
+This project focuses on detecting DeepFake images using Deep Learning techniques. A Convolutional Neural Network (CNN) model was trained on the CelebDF V2 dataset to classify manipulated facial images as Real or Fake
+
+## Streamlit 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/96354e3a-3409-412b-ba4c-71d340b051b4" />
 
 ## Dataset
 
